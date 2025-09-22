@@ -1,1 +1,1 @@
-# Python Self Study
+# Python Crash Course
