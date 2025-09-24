@@ -1,19 +1,4 @@
 import random
-""" NUMBER_OF_GUESSES = 10
-print("Welcome to the Guess the Number Game!")
-computer_selected_number = random.randint(1, 100)
-while NUMBER_OF_GUESSES >0:
-    user_selected_number = int(input("Enter a number between 1 and 100: "))
-    if user_selected_number < computer_selected_number:
-        print("Too low!")
-    elif user_selected_number > computer_selected_number:
-        print("Too high!")
-    else:
-        print("You guessed it right!")
-    NUMBER_OF_GUESSES -= 1
-    if NUMBER_OF_GUESSES == 0:
-        print("You have exhausted all your guesses. The number was " + str(computer_selected_number))
-        break """
 
 NUMBER_OF_GUESSES = 10
 print("Welcome to the Guess the Number Game!")
